@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vlad 👋</h1>
-<h3 align="center">Building AI products at the intersection of business, design & technology</h3>
+<h3 align="center">AI products at the intersection of business, design & technology</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vladislav-yakunin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.behance.net/vladislavyakunin"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
@@ -13,6 +13,7 @@ I'm an International Business Administration student at European University Viad
 🇩🇪 Moved to Germany on a Deutschlandstipendium scholarship in 2024.
 🌍 2026 Aspire Institute Fellow — selected for an international leadership program co-designed with Harvard faculty.
 🥉 3rd place at the Berlin AI Hackathon (March 2026) for SuperAgent AI — an AI agent that monitors other AI agents and evaluates their effectiveness.
+Winner of Eurotech Federation & HKTE Hackathon
 
 🚀 What I'm working on
 
@@ -22,6 +23,8 @@ I'm an International Business Administration student at European University Viad
 
 💼 Experience
 Head of Administration · Student Council (FSR), Europa-Universität Viadrina · Dec 2024 – Dec 2025
+
+BizDev Intern at xlot.ai · Apr 2026 – Now
 
 Led a team of 8 people and managed a €3,000/semester budget
 Organized 12 university events & tournaments with ~5,000 total participants
